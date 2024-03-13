@@ -29,3 +29,7 @@
 ### 🤖 Github Статистика
 
 [![Mealet Github Stats](https://github-readme-stats.vercel.app/api?username=mealet&theme=dark)](https://github.com/mealet)
+
+### 😭 LeetCode Статистика
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mealet?theme=dark&font=Artifika)
