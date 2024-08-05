@@ -28,7 +28,7 @@
 
 [![Mealet Github Stats](https://github-readme-stats.vercel.app/api?username=mealet&theme=dark)](https://github.com/mealet)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mealet)](https://github.com/mealet/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mealet&theme=dark)](https://github.com/mealet)
 
 ### 😭 Leetcode Stats
 
