@@ -17,7 +17,7 @@
 </div>
 <br/>
 
-### ✨ Социальные сети
+### ✨ Social Media
 <div id="badges">
   <a href="https://t.me/@mealet"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="50" height="50" /></a>
   <a href="https://vk.com/damirstash"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg" width="50" height="50" /></a>
