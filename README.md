@@ -1,13 +1,13 @@
 ![mealet](https://github.com/mealet/mealet/assets/110933288/301f0b80-9be7-43e1-b0cf-4a3be3c1c8f4)
 
-<sup>_- Всегда есть что сказать, но не всегда это нужно говорить._</sup>
+<sup>_- There is still a lot to be done._</sup>
 
-### 🧐 Обо мне
-**Дамир**, 15 лет, в основе Rust разработчик + немного Web и Python.
+### 🧐 About
+**Damir**, 15 years, Rust Programmer from Russia 🇷🇺
 <br/>
 <br/>
 
-### 🔗 Языки и инструменты
+### 🔗 Tools
 <div id="badges">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="50" height="50" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="50" height="50" />
@@ -24,10 +24,12 @@
 </div>
 <br/>
 
-### 🤖 Github Статистика
+### 🤖 GitHub Stats
 
 [![Mealet Github Stats](https://github-readme-stats.vercel.app/api?username=mealet&theme=dark)](https://github.com/mealet)
 
-### 😭 LeetCode Статистика
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mealet)](https://github.com/mealet/github-readme-stats)
+
+### 😭 Leetcode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mealet?theme=dark&font=Artifika)
