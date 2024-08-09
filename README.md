@@ -1,6 +1,5 @@
 ![mealet](https://github.com/mealet/mealet/assets/110933288/301f0b80-9be7-43e1-b0cf-4a3be3c1c8f4)
 
-<sup>_- There is still a lot to be done._</sup>
 
 ### 🧐 About
 **Damir**, 15 years, Rust Programmer from Russia 🇷🇺
