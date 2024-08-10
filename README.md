@@ -33,7 +33,6 @@
     <img src="https://custom-icon-badges.demolab.com/badge/-Stack%20Overflow-orange?style=for-the-badge&logo=stack-overflow&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/-Chrome-orange?style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/-Github-purple?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://custom-icon-badges.demolab.com/badge/-Github%20Desktop-purple?style=for-the-badge&logo=github&logoColor=white" />
   </p>
 
 </details>
