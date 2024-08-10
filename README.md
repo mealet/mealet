@@ -1,26 +1,66 @@
-![mealet](https://github.com/mealet/mealet/assets/110933288/301f0b80-9be7-43e1-b0cf-4a3be3c1c8f4)
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Avenir&weight=100&size=25&duration=1&color=61DAFB&center=true&repeat=false&width=440&height=45&lines=mealet" alt="mealet" /></a>
+</p>
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/mealet"><img src="https://readme-typing-svg.demolab.com?font=Avenir&weight=600&size=22&color=61DAFB&center=true&width=440&height=45&lines=Young+Rust+Programmer;Always+learning+new+features;6+years+of+coding" alt="mealet" /></a>
+</p>
 
-### 🧐 About
-**Damir**, 15 years, Rust Programmer from Russia 🇷🇺
-<br/>
-<br/>
+<p align="center">
+    <a href="https://t.me/@mealet"><img src="https://custom-icon-badges.demolab.com/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://www.reddit.com/user/mealet/"><img  src="https://custom-icon-badges.demolab.com/badge/-Reddit-blue?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+    <a href="https://www.reddit.com/user/mealet/"><img  src="https://custom-icon-badges.demolab.com/badge/-Discord-blue?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
 
-### 🔗 Tools
-<div id="badges">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50 height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width="50" height="50" />
-</div>
-<br/>
+<details open>
+  <summary><h2>🔗 Tools</h2></summary>
 
-### 🤖 GitHub Stats
+  <p align="left">
+    <h3>Languages & Frameworks:</h3>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Rust-red?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-Svelte-orange?style=for-the-badge&logo=svelte&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mealet&theme=dark)](https://github.com/mealet)
+  <p align="left">
+    <h3>Software & Tools:</h3>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Neovim-blue?style=for-the-badge&logo=neovim&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-VSCODE-blue?style=for-the-badge&logo=code&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-SQLite-blue?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-Stack%20Overflow-orange?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-Chrome-orange?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-Github-purple?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-Github%20Desktop-purple?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
 
-[![Mealet Github Stats](https://github-readme-stats.vercel.app/api?username=mealet&theme=dark)](https://github.com/mealet)
+</details>
 
-### 😭 Leetcode Stats
+<details open>
+  <summary><h2>👀 Top Projects</h2></summary>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mealet?theme=dark&font=Artifika)
+  <p aligh="left">
+    <a href="https://github.com/mealet/hiw-lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=hiw-lang&theme=react" alt="readme-typing-svg"></a>
+    <a href="https://github.com/mealet/sem-rs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=sem-rs&theme=react" alt="readme-typing-svg"></a>
+    <a href="https://github.com/mealet/rust-converter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=rust-converter&theme=react" alt="readme-typing-svg"></a>
+  </p>
+</details>
+
+<details open>
+
+  <summary> <h2> 🤖 GitHub Stats </h2> </summary>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mealet&theme=react" width="220px" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mealet&theme=react" height="200px" />
+
+</details>
+
+<details open>
+  <summary><h2>🦛 LeetCode Stats</h2></summary>
+
+  <p aligh="left">
+    <img src="https://leetcard.jacoblin.cool/mealet?theme=nord&ext=heatmap" />
+  </p>
+</details>
