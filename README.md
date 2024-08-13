@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/mealet"><img src="https://readme-typing-svg.demolab.com?font=Avenir&weight=600&size=22&color=61DAFB&center=true&width=450&height=45&lines=Young+Rust+Programmer;Always+learning+new+features;6+years+of+coding" alt="mealet" /></a>
+  <a href="https://github.com/mealet"><img src="https://readme-typing-svg.demolab.com?font=Avenir&weight=600&size=22&color=61DAFB&center=true&width=450&height=45&lines=Young+Rust+Developer;Always+learning;Totally+6+Years+Of+Coding;" alt="mealet" /></a>
 </p>
 
 <p align="center">
