@@ -42,8 +42,8 @@
 
   <p aligh="left">
     <a href="https://github.com/mealet/tpl-lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=tpl-lang&theme=react"></a>
+    <a href="https://github.com/mealet/semga"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=semga&theme=react"></a>
     <a href="https://github.com/mealet/hiw-lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=hiw-lang&theme=react"></a>
-    <a href="https://github.com/mealet/sem-rs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=sem-rs&theme=react"></a>
     <a href="https://github.com/mealet/rust-converter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=rust-converter&theme=react"></a>
     <a href="https://github.com/mealet/nextcord-bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=nextcord-bot&theme=react"></a>
     <a href="https://github.com/mealet/eva-launcher"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=eva-launcher&theme=react"></a>
