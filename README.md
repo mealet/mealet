@@ -58,11 +58,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mealet&theme=react" height="200px" />
 
 </details>
-
-<details open>
-  <summary><h2>🦛 LeetCode Stats</h2></summary>
-
-  <p aligh="left">
-    <img src="https://leetcard.jacoblin.cool/mealet?theme=nord&ext=heatmap" />
-  </p>
-</details>
