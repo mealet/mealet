@@ -28,12 +28,12 @@
   <p align="left">
     <h3>Software & Tools:</h3>
     <img src="https://custom-icon-badges.demolab.com/badge/-Neovim-blue?style=for-the-badge&logo=neovim&logoColor=white" />
-    <img src="https://custom-icon-badges.demolab.com/badge/-VSCODE-blue?style=for-the-badge&logo=code&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://custom-icon-badges.demolab.com/badge/-SQLite-blue?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-Mysql-blue?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/-Stack%20Overflow-orange?style=for-the-badge&logo=stack-overflow&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/-Chrome-orange?style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/-Github-purple?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-surrealdb-purple?style=for-the-badge&logo=surrealdb&logoColor=white" />
   </p>
 
 </details>
