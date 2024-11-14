@@ -31,7 +31,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/-Mysql-blue?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/-Stack%20Overflow-orange?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-    <img src="https://custom-icon-badges.demolab.com/badge/-Chrome-orange?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-firefox-orange?style=for-the-badge&logo=firefox&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/-Github-purple?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/-surrealdb-purple?style=for-the-badge&logo=surrealdb&logoColor=white" />
   </p>
