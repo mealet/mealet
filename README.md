@@ -42,7 +42,7 @@
   <summary><h2>👀 Top Projects</h2></summary>
 
   <p aligh="left">
-    <a href="https://github.com/mealet/tpl-lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=tpl-lang&theme=react"></a>
+    <a href="https://github.com/mealet/tpl-lang"><img width="278" src=""></a>
     <a href="https://github.com/mealet/todo_api.rs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=todo_api.rs&theme=react"></a>
     <a href="https://github.com/mealet/hiw-lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=hiw-lang&theme=react"></a>
     <a href="https://github.com/mealet/mul0"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=mul0&theme=react"></a>
