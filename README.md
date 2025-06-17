@@ -20,7 +20,7 @@
   <p align="left">
     <h3>Languages & Frameworks:</h3>
     <img src="https://custom-icon-badges.demolab.com/badge/-Rust-red?style=for-the-badge&logo=rust&logoColor=white" />
-    <img src="https://custom-icon-badges.demolab.com/badge/-Svelte-orange?style=for-the-badge&logo=svelte&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/-Next-white?style=for-the-badge&logo=next&logoColor=black" />
   </p>
