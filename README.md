@@ -50,9 +50,9 @@
     <a href="https://github.com/mealet/deen"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=deen&theme=react"></a>
     <a href="https://github.com/mealet/deen-playground"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=deen-playground&theme=react"></a>
     <a href="https://github.com/mealet/folkers"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=folkers&theme=react"></a>
+    <a href="https://github.com/mealet/mvm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=mvm&theme=react"></a>
     <a href="https://github.com/mealet/tpl-lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=tpl-lang&theme=react"></a>
     <a href="https://github.com/mealet/cresus_bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=cresus_bot&theme=react"></a>
-    <a href="https://github.com/mealet/nextcord-bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=nextcord-bot&theme=react"></a>
   </p>
 
 </details>
