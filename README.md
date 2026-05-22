@@ -48,21 +48,12 @@
     <summary><h1>🔥 Top Projects</h1></summary>
 
   <p aligh="left">
+    <a href="https://github.com/mealet/zeen"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=zeen&theme=react"></a>
     <a href="https://github.com/mealet/deen"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=deen&theme=react"></a>
     <a href="https://github.com/mealet/deen-playground"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=deen-playground&theme=react"></a>
     <a href="https://github.com/mealet/folkers"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=folkers&theme=react"></a>
     <a href="https://github.com/mealet/mvm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=mvm&theme=react"></a>
     <a href="https://github.com/mealet/tpl-lang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=tpl-lang&theme=react"></a>
-    <a href="https://github.com/mealet/cresus_bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mealet&repo=cresus_bot&theme=react"></a>
   </p>
-
-</details>
-
-<details open>
-    <summary><h1>📊 GitHub Stats</h1></summary>
-
-![](https://github-readme-stats.vercel.app/api?username=mealet&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mealet&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mealet&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </details>
