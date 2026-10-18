@@ -3,6 +3,8 @@
   <img src="https://gitglance-eight.vercel.app/api/combined?username=mealet&style=grid&theme=tokyonight" alt="GitHub stats" />
 </p>
 
+<br/>
+
 # Favourite Projects
 
 <img src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=zeen" alt="GitHub stats" />
