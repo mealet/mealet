@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1&pause=9999999999&color=70A5FD&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+mealet" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1&pause=9999999999&color=70A5FD&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+mealet" alt="Typing SVG" />
+</p>
 
 <img src="https://gitglance-eight.vercel.app/api/combined?username=mealet&style=grid&theme=tokyonight" alt="GitHub stats" />
 
