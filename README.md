@@ -7,11 +7,11 @@
 
 # Favourite Projects
 
-<p align="left" style="padding: 5px">
-  <img src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=zeen" alt="GitHub stats" />
-  <img src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=zora" alt="GitHub stats" />
-  <img src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=snake-zn" alt="GitHub stats" />
-  <img src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=folkers" alt="GitHub stats" />
+<p align="left">
+  <img hspace="10" src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=zeen" alt="GitHub stats" />
+  <img hspace="10" src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=zora" alt="GitHub stats" />
+  <img hspace="10" src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=snake-zn" alt="GitHub stats" />
+  <img hspace="10" src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=folkers" alt="GitHub stats" />
 </p>
 
 # Activity
