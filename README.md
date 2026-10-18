@@ -7,8 +7,10 @@
 
 # Favourite Projects
 
-<img src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=zeen" alt="GitHub stats" />
-<img src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=zora" alt="GitHub stats" />
+<p align="left">
+  <img src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=zeen" alt="GitHub stats" />
+  <img src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=zora" alt="GitHub stats" />
+</p>
 
 # Activity
 
