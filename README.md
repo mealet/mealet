@@ -8,10 +8,10 @@
 # Favourite Projects
 
 <p align="left">
-  <a href="https://github.com/mealet/zeen"><img hspace="1" src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=zeen" alt="GitHub stats" /></a>
-  <a href="https://github.com/mealet/zora"><img hspace="1" src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=zora" alt="GitHub stats" /></a>
-  <a href="https://github.com/mealet/snake-zn"><img hspace="1" src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=snake-zn" alt="GitHub stats" /></a>
-  <a href="https://github.com/mealet/folkers"><img hspace="1" src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=folkers" alt="GitHub stats" /></a>
+  <a href="https://github.com/mealet/zeen"><img hspace="0.5" src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=zeen" alt="GitHub stats" /></a>
+  <a href="https://github.com/mealet/zora"><img hspace="0.5" src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=zora" alt="GitHub stats" /></a>
+  <a href="https://github.com/mealet/snake-zn"><img hspace="0.5" src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=snake-zn" alt="GitHub stats" /></a>
+  <a href="https://github.com/mealet/folkers"><img hspace="0.5" src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=folkers" alt="GitHub stats" /></a>
 </p>
 
 # Activity
