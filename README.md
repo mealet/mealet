@@ -7,7 +7,7 @@
 
 # Favourite Projects
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/mealet/zeen"><img hspace="0.5" src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=zeen" alt="GitHub stats" /></a>
   <a href="https://github.com/mealet/zora"><img hspace="0.5" src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=zora" alt="GitHub stats" /></a>
   <a href="https://github.com/mealet/snake-zn"><img hspace="0.5" src="https://gitglance-eight.vercel.app/api/repo?username=mealet&style=grid&theme=tokyonight&repo=snake-zn" alt="GitHub stats" /></a>
@@ -16,4 +16,6 @@
 
 # Activity
 
-<img src="https://gitglance-eight.vercel.app/api/activity?username=mealet&style=grid&theme=tokyonight" alt="GitHub stats" />
+<p align="center">
+  <img src="https://gitglance-eight.vercel.app/api/activity?username=mealet&style=grid&theme=tokyonight" alt="GitHub stats" />
+</p>
